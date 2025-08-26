@@ -63,8 +63,8 @@ export const FeedbackAnalyzer = () => {
             <div className="p-3 bg-gradient-primary rounded-xl">
               <Sparkles className="h-8 w-8 text-primary-foreground" />
             </div>
-            <h1 className="text-4xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-              Opinion Digest
+            <h1 className="text-4xl font-bold">
+              Feedback Analyser
             </h1>
           </div>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
